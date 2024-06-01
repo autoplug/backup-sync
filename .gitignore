@@ -1,3 +1,9 @@
+# === Rules for `node_modules` ===
+!**/node_modules/**
+/node_modules
+/tools/doc/node_modules
+/tools/clang-format/node_modules
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
