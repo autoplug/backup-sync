@@ -4,8 +4,8 @@
   "description": "Hello World!",
   "main": "main.js",
   "scripts": {
-    "start": "electron .",
-    "forge": "electron-forge start",
+    "forge": "electron .",
+    "start": "electron-forge start",
     "package": "electron-forge package",
     "make": "electron-forge make"
   },
